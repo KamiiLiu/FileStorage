@@ -1,0 +1,226 @@
+[
+    {
+      school: "大安區 國立師大附中",
+      number: "3109"
+    },
+    {
+      school: "文山區 國立政大附中",
+      number: "707"
+    },
+    {
+      school: "松山區 市立西松高中",
+      number: "1213"
+    },
+    {
+      school: "松山區 市立中崙高中",
+      number: "1207"
+    },
+    {
+      school: "信義區 市立松山高中",
+      number: "2545"
+    },
+    {
+      school: "信義區 市立永春高中",
+      number: "1831"
+    },
+    {
+      school: "信義區 市立松山家商",
+      number: "94"
+    },
+    {
+      school: "大安區 市立和平高中",
+      number: "1638"
+    },
+    {
+      school: "中山區 市立中山女中",
+      number: "2813"
+    },
+    {
+      school: "中山區 市立大同高中",
+      number: "1930"
+    },
+    {
+      school: "中山區 市立大直高中",
+      number: "1205"
+    },
+    {
+      school: "中正區 市立建國高中",
+      number: "3699"
+    },
+    {
+      school: "中正區 市立成功高中",
+      number: "2901"
+    },
+    {
+      school: "中正區 市立北一女中",
+      number: "3029"
+    },
+    {
+      school: "大同區 市立明倫高中",
+      number: "1840"
+    },
+    {
+      school: "大同區 市立成淵高中",
+      number: "68"
+    },
+    {
+      school: "萬華區 市立華江高中",
+      number: "1950"
+    },
+    {
+      school: "萬華區 市立大理高中",
+      number: "98"
+    },
+    {
+      school: "文山區 市立景美女中",
+      number: "2407"
+    },
+    {
+      school: "文山區 市立萬芳高中",
+      number: "1317"
+    },
+    {
+      school: "南港區 市立南港高中",
+      number: "1167"
+    },
+    {
+      school: "南港區 市立育成高中",
+      number: "2235"
+    },
+    {
+      school: "南港區 市立南港高工",
+      number: "6"
+    },
+    {
+      school: "內湖區 市立內湖高中",
+      number: "2470"
+    },
+    {
+      school: "內湖區 市立麗山高中",
+      number: "980"
+    },
+    {
+      school: "內湖區 市立南湖高中",
+      number: "1882"
+    },
+    {
+      school: "內湖區 市立內湖高工",
+      number: "60"
+    },
+    {
+      school: "士林區 市立陽明高中",
+      number: "1512"
+    },
+    {
+      school: "士林區 市立百齡高中",
+      number: "993"
+    },
+    {
+      school: "士林區 市立士林高商",
+      number: "48"
+    },
+    {
+      school: "北投區 市立復興高中",
+      number: "2614"
+    },
+    {
+      school: "北投區 市立中正高中",
+      number: "2578"
+    },
+    {
+      school: "松山區 私立普林思頓高中",
+      number: "139"
+    },
+    {
+      school: "信義區 私立祐德高中",
+      number: "763"
+    },
+    {
+      school: "信義區 私立協和祐德高中",
+      number: "-"
+    },
+    {
+      school: "大安區 私立延平中學",
+      number: "1490"
+    },
+    {
+      school: "大安區 私立金甌女中",
+      number: "531"
+    },
+    {
+      school: "大安區 私立復興實中",
+      number: "407"
+    },
+    {
+      school: "中山區 私立中興高中",
+      number: "192"
+    },
+    {
+      school: "中山區 私立大同高中",
+      number: "888"
+    },
+    {
+      school: "中正區 私立強恕高中",
+      number: "350"
+    },
+    {
+      school: "大同區 私立靜修中學",
+      number: "1344"
+    },
+    {
+      school: "萬華區 私立立人高中",
+      number: "127"
+    },
+    {
+      school: "文山區 私立東山中學",
+      number: "2006"
+    },
+    {
+      school: "文山區 私立大誠高中",
+      number: "187"
+    },
+    {
+      school: "文山區 私立再興中學",
+      number: "805"
+    },
+    {
+      school: "文山區 私立景文高中",
+      number: "793"
+    },
+    {
+      school: "文山區 私立靜心高中",
+      number: "-"
+    },
+    {
+      school: "內湖區 私立文德女中",
+      number: "858"
+    },
+    {
+      school: "內湖區 私立方濟高中",
+      number: "658"
+    },
+    {
+      school: "內湖區 私立達人女中",
+      number: "479"
+    },
+    {
+      school: "士林區 私立泰北高中",
+      number: "304"
+    },
+    {
+      school: "士林區 私立衛理女中",
+      number: "559"
+    },
+    {
+      school: "士林區 私立華興中學",
+      number: "284"
+    },
+    {
+      school: "北投區 私立薇閣高中",
+      number: "932"
+    },
+    {
+      school: "北投區 私立幼華高中",
+      number: "232"
+    }
+   ]
